@@ -28,6 +28,11 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales data, h
 - **Tooltips & Hover Effects** – Provides additional details on demand  
 
 ---
+./images/Dashboard1.png
+---
+./images/Dashboard2.png
+---
+
 
 ## Data Sources  
 - **Primary Dataset:** `pizza_sales_data.csv` (or SQL database)  
