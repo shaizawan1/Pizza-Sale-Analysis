@@ -28,9 +28,10 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales data, h
 - **Tooltips & Hover Effects** – Provides additional details on demand  
 
 ---
-./Pizza-Sale-Analysis/Dashboard1.PNG
+./
+![Dashboard-1 Preview](Pizza-Sale-Analysis/Dashboard1.png)
 ---
-./Pizza-Sale-Analysis/Dashboard2.PNG
+![Dashboard-2 Preview](Pizza-Sale-Analysis/Dashboard2.png)
 ---
 
 
