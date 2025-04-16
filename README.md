@@ -29,9 +29,9 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales data, h
 
 ---
 ./
-![Dashboard-1 Preview](Pizza-Sale-Analysis/Dashboard1.png)
+![Pizza Sale Analysis Dashboard](Pizza-Sale-Analysis/Dashboard1.png)
 ---
-![Dashboard-2 Preview](Pizza-Sale-Analysis/Dashboard2.png)
+![Pizza Sale Analysis Dashboard](Pizza-Sale-Analysis/Dashboard2.png)
 ---
 
 
