@@ -29,17 +29,6 @@ This Power BI dashboard provides a comprehensive analysis of pizza sales data, h
 
 ---
 
-## 🔧 Technologies Used  
-
-| Tool | Version | Purpose |
-|------|---------|---------|
-| MS Excel | 2021 | Data cleaning & preprocessing |
-| MS SQL Server | 19.0 | Database management |
-| SQL Server Management Studio | 19.0.20209.0 | Querying & data extraction |
-| Power BI | June 2023 | Dashboard development & visualization |
-
----
-
 ## Data Sources  
 - **Primary Dataset:** `pizza_sales_data.csv` (or SQL database)  
 - **Data Fields:** Order ID, Pizza Name, Category, Size, Quantity, Price, Order Date, etc.  
